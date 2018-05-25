@@ -1,7 +1,6 @@
 <html>
 <body>
 
-<span>’Ç‰Á‚µ‚Ü‚µ‚½</span>
 
 </body>
 </html>
